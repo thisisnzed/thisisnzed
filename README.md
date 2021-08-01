@@ -10,7 +10,7 @@
 </p>
 
 <p align='center'>
-<img src="https://cdn.discordapp.com/attachments/816686038734340127/816957858292826122/ezgif-7-539f1a0cecc5.gif"/>
+<img src="https://media.giphy.com/media/hfuW2htPorLBl7iKvS/giphy.gif"/>
 </p>
 
 <p align='center'>
