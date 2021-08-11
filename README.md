@@ -6,7 +6,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/nz%231337%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/*nz%230507%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 <p align='center'>
@@ -14,5 +14,5 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnzed&layout=compact&theme=radical&"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnzed&layout=compact&theme=radical&&"/>
 </p>
