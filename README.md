@@ -12,9 +12,5 @@
 </p>
 
 <p align='center'>
-  <img src="https://assets2.ello.co/uploads/asset/attachment/2258446/ello-optimized-507aba98.gif"/>
-</p>
-
-<p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnzed&layout=compact&theme=radical&custom_title=thisisnzed%27s%20stats&"/>
 </p>
